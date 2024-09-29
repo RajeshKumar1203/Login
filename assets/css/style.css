@@ -1,0 +1,28 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,700;1,100;1,200;1,300&display=swap");
+.gradient-custom-3 {
+  background: #84fab0;
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+  
+  background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+  }
+  .gradient-custom-4 {
+  background: #84fab0;
+  
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+  
+  background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+  } 
+
+  .btn-width{
+    width: 180px;
+  }
+  .text-white{
+    color: #fff !important;
+  }
+  .nav-li{
+    margin-right: 150px;
+  }
+  .navbar-brand.navbar-name{
+    margin-left: 100px !important;
+  }
